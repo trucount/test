@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "username": "moviebuff123",
+    "email": "moviebuff@example.com",
+    "password": "hashed_password_here",
+    "age": 28,
+    "profilePic": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": 2,
+    "username": "seriesfanatic",
+    "email": "seriesfan@example.com",
+    "password": "hashed_password_here",
+    "age": 35,
+    "profilePic": "/placeholder.svg?height=100&width=100"
+  }
+]
+
